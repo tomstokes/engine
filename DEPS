@@ -196,7 +196,7 @@ deps = {
    Var('dart_git') + '/dartdoc.git@b039e21a7226b61ca2de7bd6c7a07fc77d4f64a9',
 
   'src/third_party/dart/third_party/pkg/ffi':
-   Var('dart_git') + '/ffi.git@454ab0f9ea6bd06942a983238d8a6818b1357edb',
+   Var('dart_git') + '/ffi.git@a90bd424116fb6f416337db67425171f2dc4c98f',
 
   'src/third_party/dart/third_party/pkg/fixnum':
    Var('dart_git') + '/fixnum.git@16d3890c6dc82ca629659da1934e412292508bba',
